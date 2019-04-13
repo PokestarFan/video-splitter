@@ -1,3 +1,4 @@
 start_time,length,rename_to
-0,34,video1
-35,22,video2
+0         ,34    ,video1.mp4
+35        ,22    ,video2.mp4
+50        ,01:20 ,video3.mp4
